@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "157408812980",
+    "firebase_url": "https://lab4-8ed14.firebaseio.com",
+    "project_id": "lab4-8ed14",
+    "storage_bucket": "lab4-8ed14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157408812980:android:15d2a6472bf743f3",
+        "android_client_info": {
+          "package_name": "edu.pedorenko.lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157408812980-k9cg2g8od4h8je7g9ul5d5mro1vqfltu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBln8jXeGkPAY1IEkcYUt_npt3_LuIuA9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
